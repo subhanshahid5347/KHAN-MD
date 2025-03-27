@@ -1,14 +1,14 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["KHAN-MD"],
-  "success_url": "/",
+  "name": "SUBHAN-MD",
+  "description": "Javascript WhatsApp bot made by Abdul Subhan",
+  "logo": "https://ibb.co/s9LZR22r",
+  "keywords": ["SUBHAN-MD"],
+  "success_url": "KHAN-MD~L640yaSY#utMtjv_TBt2eihNtS6PUky_7s4hP-7qwCr2K8JjWGS4",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KHAN-MD~L640yaSY#utMtjv_TBt2eihNtS6PUky_7s4hP-7qwCr2K8JjWGS4",
       "required": true,
       "value": ""
     },  
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -60,53 +60,53 @@
 
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "required": true,
+      "value": "Abdul Subhan"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "92310344XXXX"
+      "required": true,
+      "value": "923118330341"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
-      "value": "KHAN-MD"
+      "required": true,
+      "value": "SUBHAN-MD"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
       
     },
     
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*Abdul Subhan*"
     },
 
       "DELETE_LINKS": {
